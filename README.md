@@ -44,12 +44,7 @@ Reset button for RP2040, SAMD21 & CC1352, Boot of CC1352, and one more for gener
 Wiki and Getting Started
 Getting Started in our Wiki
 
-Firmware Repository
-All Catsniffer Firmware has been moved to a different repository, to have a better version control, and issue tracking you will find it here:
 
-
-
-All catsniffer versions are supported in this repository, you will need to check what version you own and select the proper branch to develop or release for just program your board.
 
 
 
