@@ -64,13 +64,6 @@ CatSniffer is compatible with the following protocols:
 
 ---
 
-## Repositories
-
-- **Firmware:** [CatSniffer Firmware Repository](https://github.com/ElectronicCats/CatSniffer-Firmware)
-- **Software:** [CatSniffer Tools Repository](https://github.com/ElectronicCats/CatSniffer-Tools)
-
----
-
 ## Compatible Software
 
 CatSniffer works with multiple software tools for sniffing and debugging:
